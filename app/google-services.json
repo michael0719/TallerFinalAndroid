@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "216255642314",
+    "firebase_url": "https://tallerandroid-707dd.firebaseio.com",
+    "project_id": "tallerandroid-707dd",
+    "storage_bucket": "tallerandroid-707dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216255642314:android:2f3b163555851d3ac85233",
+        "android_client_info": {
+          "package_name": "com.example.taller2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216255642314-9pentg71nnbo785kt7fe83inihpbaevl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taller2",
+            "certificate_hash": "66ac5a5ff6831eaea1e2f95656fc593cb3ff67a0"
+          }
+        },
+        {
+          "client_id": "216255642314-2ej8ok70d7vpl12dan63ll1bc0kofqsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeSgawC13-yo5XOw-6IL1nUGhNn5k4ONU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216255642314-2ej8ok70d7vpl12dan63ll1bc0kofqsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
